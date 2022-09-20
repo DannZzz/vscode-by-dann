@@ -1,3 +1,7 @@
+> ### File --> Preferences --> Configure User Snippets --> New Global Snippets File..
+>
+> Then remove all content and paste this
+
 ```shell
 {
 	"Class with constructor": {
