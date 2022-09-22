@@ -5,7 +5,7 @@
 ```shell
 {
 	"Class with constructor": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"cc"
 		],
@@ -19,7 +19,7 @@
 		"description": "Create class with constructror function"
 	},
 	"Class with constructor and definition": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"ccd"
 		],
@@ -34,7 +34,7 @@
 		"description": "Create class with constructror function then define it"
 	},
 	"Arrow function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"arfn",
 		],
@@ -46,7 +46,7 @@
 		"description": "Create arrow function"
 	},
 	"Async Arrow function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"aarfn",
 		],
@@ -58,7 +58,7 @@
 		"description": "Create async arrow function"
 	},
 	"Async function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"afn"
 		],
@@ -70,7 +70,7 @@
 		"description": "Create async function"
 	},
 	"Log function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"fnlog"
 		],
@@ -84,7 +84,7 @@
 		"description": "Console.log function's response"
 	},
 	"Log arrow function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": [
 			"arfnlog"
 		],
@@ -98,7 +98,7 @@
 		"description": "Console.log arrow function's response"
 	},
 	"new Promise with handling": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": "promhandle",
 		"body": [
 			"const ${1:promise} = new Promise((res, rej) => {",
@@ -112,7 +112,7 @@
 		"description": "Create promise object anb handle"
 	},
 	"Return Promise with function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": "returnprom",
 		"body": [
 			"const ${1:promise} = (${2:params}) => {",
@@ -128,7 +128,7 @@
 		"description": "Create a function which returns a promise then handle"
 	},
 	"Timeout Function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": "timeoutfn",
 		"body": [
 			"const ${1:timeout} = setTimeout(function () {",
@@ -140,7 +140,7 @@
 		"description": "Create setTimeout function easily"
 	},
 	"Interval Function": {
-		"scope": "",
+		"scope": "javascript, javascriptreact, typescript, typescriptreact",
 		"prefix": "intervalfn",
 		"body": [
 			"const ${1:interval} = setInterval(function () {",
